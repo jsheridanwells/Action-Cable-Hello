@@ -1,0 +1,7 @@
+{
+  "name": "rails-hello-2",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
